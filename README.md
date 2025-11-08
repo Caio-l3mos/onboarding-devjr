@@ -1,11 +1,12 @@
-# onboarding-devjr
+# Onboarding Dev Júnior – Caio Gomes de Carvalho Lemos
 
-Nome: Caio Gomes de Carvalho Lemos
+## 🧑‍💻 Sobre mim:
+Sou desenvolvedor júnior iniciando minha carreira com foco em JavaScript.  
+Busco aprimorar minhas habilidades em lógica de programação, Git e boas práticas de desenvolvimento.
 
-Stack principal : Javascript
+## ⚙️ Stack Principal
+- **Linguagem:** JavaScript (Node.js)
+- **Editor:** VS Code
+- **Ferramentas:** Git, GitHub, Node.js, npm
 
-Ferramentas: Vscode e  Node 
 
-Uma breve bio profissional — Ola, me chamo Caio Gomes de Carvalho Lemos, Sou um desenvolvedor junior, familiarizado com as Stacks: JavaScript e Node. Sou criativo e me dedico a solucionar problmas da forma mais interessante possivel, lido muito bem com trabalho em equipe e sou extremamente dedicado em minhas atribuições.
-
-Link do seu perfil no GitHub : https://github.com/Caio-l3mos
